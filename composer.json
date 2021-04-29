@@ -1,0 +1,29 @@
+{
+    "name": "proklung/pipeline-symfony",
+    "description": "Pipeline, вытащенный из Laravel и заточенный под контейнер Symfony.",
+    "type": "library",
+    "keywords": [
+        "symfony"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gavrilov Fedy",
+            "email": "fedor.gavrilov.75@mail.ru",
+            "homepage": "https://github.com/ProklUng"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ProklUng/pipeline-symfony/issues",
+        "source": "https://github.com/ProklUng/pipeline-symfony"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prokl\\Pipeline\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.3",
+        "symfony/dependency-injection": "^3.4 || ^4.0 || ^5.0"
+    }
+}
