@@ -8,4 +8,4 @@ INTERNAL
 
 ## Использование
 
-Как-то [так](https://laravel.demiart.ru/pipeline-part-1/).
+Как-то [так](https://laravel.demiart.ru/pipeline-part-1/). Только контейнер Symfony.
